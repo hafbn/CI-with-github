@@ -2,8 +2,6 @@
 
 FROM python:3.9
 
-
-
 WORKDIR C:\Users\Ngoc\Desktop\EFREI\M2\MLinprod\CI-with-github
 
 
