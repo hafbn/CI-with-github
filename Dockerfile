@@ -23,7 +23,7 @@ RUN pip install -r requirements.txt
 
 COPY app.py .
 
-EXPOSE 5002
+EXPOSE 5000
 
 
 #run the app
